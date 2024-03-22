@@ -1,3 +1,10 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xfaB141f084625fA0f2e62ee78f66B8AAD4352Ad4'
+quorum: 1
+
 - 👋 Hi, I’m @jekijeki0808
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
